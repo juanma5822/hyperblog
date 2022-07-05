@@ -1,12 +1,28 @@
 body
 {
-     color: #333 ;
+     color: rgb(3, 3, 3) ;
      text-align: center;
      font-family: "Times New Roman";
      font-size: 16px;
      margin: 0;
      padding: 0;
    
+}
+
+#cabecera
+{
+    background: #33a ;
+    box-shadow: 0p 5px 10px 0px rgba(0,0,0,0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 #container
 {
@@ -21,4 +37,9 @@ body
 {
     font-size: 20px;
 
+}
+
+#post
+{
+    padding: 1em;
 }
