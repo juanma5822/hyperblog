@@ -1,6 +1,14 @@
 body
 {
-    color: chocolate ;
-    text-align: center;
-    font-family: "Arial";
+    h1{
+        color: chocolate ;
+        text-align: center;
+        font-family: "Arial";
+    }
+
+    p{
+        color: black ;
+        text-align: initial;
+        font-family: "Arial";  
+    }
 }
